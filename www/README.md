@@ -1,19 +1,19 @@
-# Install Cordova CLI
+# Install Via Repo Github
 
-install cordova
+install cordova (kalau belum install cordova)
 ```bash
 npm install -g cordova
 ```
 
-Buat Project Baru:
+clone repository
 ```bash
-cordova create myApp com.example.myApp MyApp
-cd myApp
+git clone https://github.com/RafiNashirudin/weather-app.git
 ```
 
-Tambahkan Platform Android
+masuk direkrori dan jalankan
 ```bash
-cordova platform add android
+cd weather-app
+npm install
 ```
 
 Uji Aplikasi di browser (Opsional):
