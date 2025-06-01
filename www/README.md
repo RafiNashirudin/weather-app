@@ -1,4 +1,4 @@
-#Install Cordova CLI
+# Install Cordova CLI
 
 install cordova
 ```bash
